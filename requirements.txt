@@ -1,0 +1,4 @@
+pyperclip
+google-generativeai
+datetime
+win10toast
